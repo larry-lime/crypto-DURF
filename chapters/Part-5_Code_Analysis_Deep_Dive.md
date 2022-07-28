@@ -4,5 +4,5 @@
 2. Code auditing techniques
 3. Code auditing tools
 4. Solidity smart-contract audit walk-through
-5. Historical attacks and hacks
+5. Historical attacks an d hacks
 6. Real world audit and explanation

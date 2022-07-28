@@ -24,7 +24,7 @@ The primary goal of our project is to educate curious learners about the methods
 * [Smart Contract Security & Auditing (GH Repo)](https://github.com/PatrickAlphaC/hardhat-security-fcc)
 * [How to Audit a Smart Contract (YT Video)](https://www.youtube.com/watch?v=TmZ8gH-toX0)
 
-## General Outline
+## Project Outline
 
 1. Part 1 - Crypto Ecosystem Overview
    1. What is Bitcoin?
@@ -51,12 +51,4 @@ The primary goal of our project is to educate curious learners about the methods
    4. Solidity smart-contract audit walk-throughnv P
    5. Historical attacks and hacks
    6. Real world audit and explanation
-
-## Timeline
-
-* Part 1 - July 13th?
-* Part 2 - August 4th
-* Part 3 - September 4th
-* Part 4 - September 13th
-* Part 5 - September 13th
 
