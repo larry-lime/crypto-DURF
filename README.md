@@ -8,12 +8,21 @@ What is the most widely adopted investment approach institutional investors are 
 
 The primary goal of our project is to educate curious learners about the methods institutional investors are using to profit in the Web3 world. We also take a deep technical dive into two methods of project valuation, giving learners a fundamental understanding of the processes involved in crypto asset risk assessment and valuation.
 
+## Project Contents
+
+* [Part 1 - Crypto Ecosystem Overview](chapters/Part-1_Crypto_Ecosystem_Overview.md)
+* [Part 2 - How are Institutional Investors Profiting](chapters/Part-2_How_are_institutional_investors_profiting.md)
+* [Part 3 Crypto Rating and Valuation](chapters/Part-3_Crypto_Rating_and_Valuation_Overview.md)
+* [Part 4 - Market Analysis Deep Dive](chapters/Part-4_Market_Analysis_Deep_Dive.md)
+* [Part 5 - Code Analysis Deep Dive](chapters/Part-5_Code_Analysis_Deep_Dive.md)
+
 ## Learning Resources
 
 * [Token Insight API Documentation](https://api.tokeninsight.com/reference/api-overview)
 * [Solidity JavaScript Course (YT Video)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)
 * [Solidity & JavaScript Course (GH Repo)](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 * [Smart Contract Security & Auditing (GH Repo)](https://github.com/PatrickAlphaC/hardhat-security-fcc)
+* [How to Audit a Smart Contract (YT Video)](https://www.youtube.com/watch?v=TmZ8gH-toX0)
 
 ## General Outline
 
@@ -39,11 +48,11 @@ The primary goal of our project is to educate curious learners about the methods
    1. Smart-contract vulnerabilities
    2. Code auditing techniques
    3. Code auditing tools
-   4. Solidity smart-contract audit walk-through
+   4. Solidity smart-contract audit walk-throughnv P
    5. Historical attacks and hacks
    6. Real world audit and explanation
 
-### Timeline
+## Timeline
 
 * Part 1 - July 13th?
 * Part 2 - August 4th
@@ -51,11 +60,3 @@ The primary goal of our project is to educate curious learners about the methods
 * Part 4 - September 13th
 * Part 5 - September 13th
 
-## Part 1 - Crypto Ecosystem Overview 
-
-What is Bitcoin?
-
-1. What is blockchain?
-   1. Brief history (Haber and Stornetta)
-
-* Significance of blockchain implementation in digital virtual currencyWhat is Bitcoin?Brief historyMechanicsPoW + longest chain rule (Nakamoto Consensus), SHA256,Mining and mining economyDifficulty levelBlock reward and halvingMempool and Miner feesIssues: centralization, environment**What is Ethereum?**Brief historyVitalik Buterin, Gavin WoodWhy Ethereum?EVM, Solidity, and Smart-contractsEthereum Foundation, active creatorPoW, Keccak256Ethereum Merge, PoS, Sharding, Layer-2s**What are tokens?**Not the same as Bitcoin or EtherSmart-contract standardsERC20 Tokens, ERC721 NFT, ERC155 Token + NFT**What is DeFi?**Why DeFi?Drawbacks of the modern financial systemBanks, inflation,Ecosystem overviewNotable protocols: Uniswap, Curve, AAve, Compound, Synthetix**What are NFTs?**Why NFTs?Digital ownershipPotential with physical goodsEcosystem overview**Conclusion & Transition**Growing ecosystemA lot of people are excited about it"The suits" are and have been jumping in**Part 2 - How are institutional investors profiting in Web3?**Bitcoin & EthereumNFT releasesEarly-stage investing**Part 3 - Crypto Rating & Valuation Overview**Rating methodology explanationHolistic project evaluationEvaluate Project FoundationEvaluate Project Outlook**Part 4 - Market Analysis Deep Dive**Token/project classification...**Part 5 - Code Analysis Deep Dive**Smart-contract vulnerabilitiesCode auditing techniquesCode auditing toolsSolidity smart-contract audit walk-throughHistorical attacks and hacksReal world audit and explanation Sources**Part 1 - Crypto Ecosystem Overview...**  
